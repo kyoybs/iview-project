@@ -19,3 +19,4 @@ npm run dev
 npm run build
 ```
 
+## fix npm run init Error   -- 2018-12-19
